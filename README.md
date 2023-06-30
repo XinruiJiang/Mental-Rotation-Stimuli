@@ -10,3 +10,7 @@ Code need to be ran by order indicated by the numbering of each .py file name:
 - Step3: This step is to remove the background of all images and crop off empty spaces.
 
 For example stimuli, see Example_Cube.png and Example_Sphere.png.
+
+# Citation
+To cite this tool, please reference the following:
+Eich, B., Beck, M. R., Jiang, X., & Fan, G. (May, 2023) Sphere stimuli in the Mental Rotation Task: A new set of Ecologically Valid Stimuli with Comparative Performance to Traditional Cube Stimuli. Vision Sciences Society, St. Pete Beach, FL.
